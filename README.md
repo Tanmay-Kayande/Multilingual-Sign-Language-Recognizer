@@ -17,5 +17,5 @@ Output:
 
 
 
-https://github.com/tayademandar/Multilingual-Sign-Language-Recognizer/assets/55328883/ceefff3c-800e-4094-851c-8d070b7f5325
+
 
